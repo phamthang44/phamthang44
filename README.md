@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham Duc Thang</h1>
 <h3 align="center">A Developer from trường G</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phamthang44&label=Profile%20views&color=0e75b6&style=flat" alt="phamthang44" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phamthang44" alt="phamthang44" /></a> </p>
 
