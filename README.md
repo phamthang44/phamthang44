@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [coursework](https://github.com/phamthang44/coursework-web)
 
-- 🌱 I’m currently learning **PHP, JavaScript, ReactJS**
+- 🌱 I’m currently learning **PHP, JavaScript, ReactJS, Java Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
