@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/phamthang44/phamthang44/output/snake.svg" alt="Snake animation" />
 
 ###
