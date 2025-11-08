@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thang</h2>
+<h2 align="left">Hi 👋! My name is Pham Thang</h2>
 
 ###
 
