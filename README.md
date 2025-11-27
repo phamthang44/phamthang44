@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Thang</h2>
-<p align="left">• A Backend Developer</p>
+<p align="left">• A Passionate Backend Developer</p>
 
 ###
 
