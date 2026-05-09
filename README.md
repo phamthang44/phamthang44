@@ -26,12 +26,13 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Profile Summary
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=phamthang44&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamthang44&theme=dracula" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamthang44&theme=dracula" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phamthang44&theme=dracula" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phamthang44&theme=dracula" width="32%"/>
 </div>
 
 ---
@@ -62,11 +63,15 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=phamthang44&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=phamthang44&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=phamthang44&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=phamthang44&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=phamthang44&theme=dracula&hide_border=false&count_private=true&layout=compact" height="180em"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=phamthang44&theme=dracula&hide_border=false" width="60%"/>
+</div>
 
 ---
 
