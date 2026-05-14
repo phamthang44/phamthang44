@@ -66,7 +66,7 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=phamthang44&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=phamthang44&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=phamthang44&theme=dracula&hide_border=false&count_private=false&layout=compact" height="180em"/>
 </div>
 <div align="center">
