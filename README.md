@@ -22,7 +22,7 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 - 🔭 Currently working on personal full-stack projects
 - 🌱 Deepening my knowledge in cloud infrastructure and system design
 - 💬 Ask me about Java, Spring Boot, or database design
-- ⚡ Fun fact: I go by **BeeTwins** online
+- ⚡ Fun fact: I go by **Bee** online
 
 ---
 
