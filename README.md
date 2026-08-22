@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangpham44/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/phamthang44)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7SHKT5kyG)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bee.twins44/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bee.twins44/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/thang.phm.160805)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thang.phm_/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BeeTwins44)
 
 </div>
@@ -22,7 +22,7 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 - 🔭 Currently working on personal full-stack projects
 - 🌱 Deepening my knowledge in cloud infrastructure and system design
 - 💬 Ask me about Java, Spring Boot, or database design
-- ⚡ Fun fact: I go by **Bee** online
+- ⚡ Fun fact: I go by **Thang** online
 
 ---
 
