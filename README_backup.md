@@ -1,15 +1,14 @@
 <div align="center">
 
 # Thắng Phạm
-
 ### Software Engineer · Vietnam
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phamthang3564@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangpham44/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/th%E1%BA%AFng-ph%E1%BA%A1m-aa6377311/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/phamthang44)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7SHKT5kyG)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/thang.phm.160805)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thang.phm_/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bee.twins44/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bee.twins44/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BeeTwins44)
 
 </div>
@@ -23,7 +22,7 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 - 🔭 Currently working on personal full-stack projects
 - 🌱 Deepening my knowledge in cloud infrastructure and system design
 - 💬 Ask me about Java, Spring Boot, or database design
-- ⚡ Fun fact: I go by **Thang** online
+- ⚡ Fun fact: I go by **BeeTwins** online
 
 ---
 
@@ -49,7 +48,6 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### Familiar / Learning
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -68,8 +66,8 @@ I'm a software engineering student and self-taught developer based in Vietnam, p
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=phamthang44&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=phamthang44&theme=dracula&hide_border=false&count_private=false&layout=compact" height="180em"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=phamthang44&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=phamthang44&theme=dracula&hide_border=false&count_private=true&layout=compact" height="180em"/>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=phamthang44&theme=dracula&hide_border=false" width="60%"/>
