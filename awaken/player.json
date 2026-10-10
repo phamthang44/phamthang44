@@ -2,7 +2,7 @@
   "login": "phamthang44",
   "level": 13,
   "overall": "S",
-  "overallPercentile": 0.9400070667695553,
+  "overallPercentile": 0.9401251663334764,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1076,
+      "value": 1086,
       "rank": "S",
-      "percentile": 0.9769165859465152
+      "percentile": 0.9772440706604179
     },
     {
       "code": "AGI",
@@ -97,7 +97,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1076
+      "value": 1086
     },
     {
       "id": "unbroken",
@@ -117,7 +117,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 24
+      "value": 26
     },
     {
       "id": "gate-opener",
@@ -172,22 +172,22 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 240
+      "value": 241
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 8
+      "value": 11
     },
     {
       "id": "boss-slayer",
@@ -202,11 +202,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 5
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-10",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-09",
         "cleared": 3,
@@ -223,10 +228,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 2,
-    "bestRun": 2,
-    "questsDone": 8,
+    "perfectDays": 3,
+    "run": 3,
+    "bestRun": 3,
+    "questsDone": 11,
     "bosses": [
       "2026-10-05"
     ],
@@ -236,8 +241,9 @@
       "mp",
       "three",
       "average",
-      "two-repos"
+      "two-repos",
+      "weekend"
     ]
   },
-  "syncedAt": "2026-10-09T21:37:46.195Z"
+  "syncedAt": "2026-10-10T20:33:00.990Z"
 }
