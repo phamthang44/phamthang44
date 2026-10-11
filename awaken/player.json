@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-11T20:56:31.009Z"
+    },
+    {
       "kind": "stat",
       "subject": "STR",
       "from": "SS",
@@ -172,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 241
+      "value": 240
     },
     {
       "id": "daily-grinder",
@@ -187,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 11
+      "value": 13
     },
     {
       "id": "boss-slayer",
@@ -201,12 +208,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 6
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-11",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-10",
         "cleared": 3,
@@ -229,9 +241,9 @@
       }
     ],
     "perfectDays": 3,
-    "run": 3,
+    "run": 0,
     "bestRun": 3,
-    "questsDone": 11,
+    "questsDone": 13,
     "bosses": [
       "2026-10-05"
     ],
@@ -242,8 +254,9 @@
       "three",
       "average",
       "two-repos",
-      "weekend"
+      "weekend",
+      "commit"
     ]
   },
-  "syncedAt": "2026-10-10T20:33:00.990Z"
+  "syncedAt": "2026-10-11T20:56:31.009Z"
 }
