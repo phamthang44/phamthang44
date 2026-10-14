@@ -2,7 +2,7 @@
   "login": "phamthang44",
   "level": 13,
   "overall": "S",
-  "overallPercentile": 0.9401369166533027,
+  "overallPercentile": 0.9402305333765001,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1087,
+      "value": 1095,
       "rank": "S",
-      "percentile": 0.977276438542635
+      "percentile": 0.9775329352857772
     },
     {
       "code": "AGI",
@@ -104,7 +104,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1087
+      "value": 1095
     },
     {
       "id": "unbroken",
@@ -179,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 242
+      "value": 243
     },
     {
       "id": "daily-grinder",
@@ -194,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 18
+      "value": 20
     },
     {
       "id": "boss-slayer",
@@ -214,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-14",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-13",
         "cleared": 3,
@@ -251,9 +256,9 @@
       }
     ],
     "perfectDays": 4,
-    "run": 1,
+    "run": 0,
     "bestRun": 3,
-    "questsDone": 18,
+    "questsDone": 20,
     "bosses": [
       "2026-10-05"
     ],
@@ -268,5 +273,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-13T21:48:51.582Z"
+  "syncedAt": "2026-10-14T20:38:31.125Z"
 }
