@@ -55,27 +55,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-11T20:56:31.009Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "SS",
-      "to": "S",
-      "at": "2026-10-09T21:37:46.195Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "SS",
-      "to": "S",
-      "at": "2026-10-09T21:37:46.195Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-09T21:37:46.195Z"
     }
   ],
   "achievements": [
@@ -172,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 245
+      "value": 246
     },
     {
       "id": "daily-grinder",
@@ -187,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 24
+      "value": 26
     },
     {
       "id": "boss-slayer",
@@ -207,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-17",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-16",
         "cleared": 2,
@@ -261,7 +245,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 24,
+    "questsDone": 26,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -278,5 +262,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-16T19:54:56.026Z"
+  "syncedAt": "2026-10-17T19:18:18.416Z"
 }
