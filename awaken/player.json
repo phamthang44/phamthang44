@@ -2,20 +2,20 @@
   "login": "phamthang44",
   "level": 13,
   "overall": "S",
-  "overallPercentile": 0.9403234712168721,
+  "overallPercentile": 0.9404387037182319,
   "layout": "default",
   "class": {
     "name": "Blade Master",
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "Polyglot",
+  "title": "YOLO",
   "stats": [
     {
       "code": "STR",
-      "value": 1103,
+      "value": 1113,
       "rank": "S",
-      "percentile": 0.9777851525804243
+      "percentile": 0.9780945522208666
     },
     {
       "code": "AGI",
@@ -48,15 +48,7 @@
       "percentile": 0.7863688755764323
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-11T20:56:31.009Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -76,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1103
+      "value": 1113
     },
     {
       "id": "unbroken",
@@ -120,8 +112,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 3,
-      "value": 9
+      "tier": 2,
+      "value": 7
     },
     {
       "id": "star-collector",
@@ -151,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 244
+      "value": 245
     },
     {
       "id": "daily-grinder",
@@ -166,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 28
+      "value": 30
     },
     {
       "id": "boss-slayer",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-19",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-18",
         "cleared": 2,
@@ -250,7 +247,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 28,
+    "questsDone": 30,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -267,5 +264,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-18T19:23:53.673Z"
+  "syncedAt": "2026-10-19T21:28:33.186Z"
 }
