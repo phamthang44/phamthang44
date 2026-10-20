@@ -2,7 +2,7 @@
   "login": "phamthang44",
   "level": 13,
   "overall": "S",
-  "overallPercentile": 0.9404387037182319,
+  "overallPercentile": 0.9406370006180945,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1113,
+      "value": 1120,
       "rank": "S",
-      "percentile": 0.9780945522208666
+      "percentile": 0.9783073400335661
     },
     {
       "code": "AGI",
-      "value": 78,
+      "value": 79,
       "rank": "S",
-      "percentile": 0.9788161720243884
+      "percentile": 0.9792219179762587
     },
     {
       "code": "INT",
@@ -53,22 +53,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 73
+      "value": 74
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 70
+      "value": 71
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 70
+      "value": 71
     },
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1113
+      "value": 1120
     },
     {
       "id": "unbroken",
@@ -143,12 +143,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 245
+      "value": 246
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "perfect-week",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 30
+      "value": 33
     },
     {
       "id": "boss-slayer",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-20",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-19",
         "cleared": 2,
@@ -244,10 +249,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 4,
-    "run": 0,
+    "perfectDays": 5,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 30,
+    "questsDone": 33,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -264,5 +269,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-19T21:28:33.186Z"
+  "syncedAt": "2026-10-20T20:32:02.957Z"
 }
