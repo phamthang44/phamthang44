@@ -48,7 +48,15 @@
       "percentile": 0.7863688755764323
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "daily-grinder",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-27T21:15:45.761Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -143,12 +151,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 250
+      "value": 251
     },
     {
       "id": "daily-grinder",
-      "tier": 0,
-      "value": 6
+      "tier": 1,
+      "value": 7
     },
     {
       "id": "perfect-week",
@@ -158,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 46
+      "value": 49
     },
     {
       "id": "boss-slayer",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-27",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-26",
         "cleared": 3,
@@ -279,10 +292,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 6,
-    "run": 1,
+    "perfectDays": 7,
+    "run": 2,
     "bestRun": 3,
-    "questsDone": 46,
+    "questsDone": 49,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -301,5 +314,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-26T21:37:11.696Z"
+  "syncedAt": "2026-10-27T21:15:45.761Z"
 }
