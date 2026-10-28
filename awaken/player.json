@@ -1,27 +1,27 @@
 {
   "login": "phamthang44",
-  "level": 13,
+  "level": 14,
   "overall": "S",
-  "overallPercentile": 0.9407391936637398,
+  "overallPercentile": 0.9459032765742239,
   "layout": "default",
   "class": {
     "name": "Blade Master",
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "YOLO",
+  "title": "Polyglot",
   "stats": [
     {
       "code": "STR",
-      "value": 1129,
-      "rank": "S",
-      "percentile": 0.9785764457944606
+      "value": 1350,
+      "rank": "SS",
+      "percentile": 0.9838928744445942
     },
     {
       "code": "AGI",
-      "value": 79,
-      "rank": "S",
-      "percentile": 0.9792219179762587
+      "value": 106,
+      "rank": "SS",
+      "percentile": 0.9869952436700553
     },
     {
       "code": "INT",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 20,
+      "value": 21,
       "rank": "SS",
-      "percentile": 0.9936494649840901
+      "percentile": 0.99480774096217
     },
     {
       "code": "LUK",
@@ -50,6 +50,41 @@
   ],
   "events": [
     {
+      "kind": "level",
+      "subject": "Level",
+      "from": "13",
+      "to": "14",
+      "at": "2026-10-28T21:38:04.968Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-10-28T21:38:04.968Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-10-28T21:38:04.968Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "polyglot",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-28T21:38:04.968Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "quest-hunter",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-28T21:38:04.968Z"
+    },
+    {
       "kind": "achievement",
       "subject": "daily-grinder",
       "from": "0",
@@ -61,7 +96,7 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 74
+      "value": 96
     },
     {
       "id": "quickdraw",
@@ -71,12 +106,12 @@
     {
       "id": "yolo",
       "tier": 3,
-      "value": 71
+      "value": 93
     },
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1129
+      "value": 1350
     },
     {
       "id": "unbroken",
@@ -86,12 +121,12 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 3
+      "value": 5
     },
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 6
+      "value": 8
     },
     {
       "id": "weekend-warrior",
@@ -101,7 +136,7 @@
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 20
+      "value": 21
     },
     {
       "id": "raider",
@@ -111,7 +146,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 94
+      "value": 91
     },
     {
       "id": "healer",
@@ -120,8 +155,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 2,
-      "value": 7
+      "tier": 3,
+      "value": 8
     },
     {
       "id": "star-collector",
@@ -151,12 +186,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 251
+      "value": 252
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 7
+      "value": 8
     },
     {
       "id": "perfect-week",
@@ -165,8 +200,8 @@
     },
     {
       "id": "quest-hunter",
-      "tier": 0,
-      "value": 49
+      "tier": 1,
+      "value": 52
     },
     {
       "id": "boss-slayer",
@@ -186,6 +221,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-28",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-27",
         "cleared": 3,
@@ -292,10 +332,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 7,
-    "run": 2,
+    "perfectDays": 8,
+    "run": 3,
     "bestRun": 3,
-    "questsDone": 49,
+    "questsDone": 52,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -314,5 +354,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-27T21:15:45.761Z"
+  "syncedAt": "2026-10-28T21:38:04.968Z"
 }
