@@ -2,7 +2,7 @@
   "login": "phamthang44",
   "level": 14,
   "overall": "S",
-  "overallPercentile": 0.9459693628425063,
+  "overallPercentile": 0.9461402388916614,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1352,
+      "value": 1363,
       "rank": "SS",
-      "percentile": 0.9839316979889182
+      "percentile": 0.9841427915199061
     },
     {
       "code": "AGI",
-      "value": 107,
+      "value": 109,
       "rank": "SS",
-      "percentile": 0.9871974862112629
+      "percentile": 0.987588792234922
     },
     {
       "code": "INT",
@@ -96,22 +96,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 96
+      "value": 99
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 71
+      "value": 72
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 93
+      "value": 96
     },
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1352
+      "value": 1363
     },
     {
       "id": "unbroken",
@@ -121,7 +121,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 5
+      "value": 4
     },
     {
       "id": "early-bird",
@@ -131,7 +131,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 24
+      "value": 23
     },
     {
       "id": "gate-opener",
@@ -146,7 +146,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 90
+      "value": 91
     },
     {
       "id": "healer",
@@ -186,12 +186,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 253
+      "value": 254
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 8
+      "value": 9
     },
     {
       "id": "perfect-week",
@@ -201,7 +201,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 54
+      "value": 57
     },
     {
       "id": "boss-slayer",
@@ -221,6 +221,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-30",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-29",
         "cleared": 2,
@@ -337,10 +342,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 8,
-    "run": 0,
+    "perfectDays": 9,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 54,
+    "questsDone": 57,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -360,5 +365,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-29T21:45:39.662Z"
+  "syncedAt": "2026-10-30T21:27:14.343Z"
 }
