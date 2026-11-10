@@ -2,7 +2,7 @@
   "login": "phamthang44",
   "level": 15,
   "overall": "S",
-  "overallPercentile": 0.9458926751050158,
+  "overallPercentile": 0.9459040858871427,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1366,
+      "value": 1368,
       "rank": "SS",
-      "percentile": 0.9841996560034487
+      "percentile": 0.9842373995587775
     },
     {
       "code": "AGI",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "flawless",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-10T22:20:08.307Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "14",
@@ -61,12 +68,12 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 100
+      "value": 101
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 72
+      "value": 71
     },
     {
       "id": "yolo",
@@ -76,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1366
+      "value": 1368
     },
     {
       "id": "unbroken",
@@ -110,8 +117,8 @@
     },
     {
       "id": "flawless",
-      "tier": 1,
-      "value": 89
+      "tier": 2,
+      "value": 90
     },
     {
       "id": "healer",
@@ -166,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 77
+      "value": 79
     },
     {
       "id": "boss-slayer",
@@ -186,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-10",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-09",
         "cleared": 2,
@@ -360,7 +372,7 @@
     "perfectDays": 11,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 77,
+    "questsDone": 79,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -381,5 +393,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-10T00:39:41.273Z"
+  "syncedAt": "2026-11-10T22:20:08.307Z"
 }
