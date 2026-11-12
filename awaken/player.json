@@ -2,7 +2,7 @@
   "login": "phamthang44",
   "level": 15,
   "overall": "S",
-  "overallPercentile": 0.9459040858871427,
+  "overallPercentile": 0.9459097850442041,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1368,
+      "value": 1369,
       "rank": "SS",
-      "percentile": 0.9842373995587775
+      "percentile": 0.9842562217405978
     },
     {
       "code": "AGI",
@@ -83,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1368
+      "value": 1369
     },
     {
       "id": "unbroken",
@@ -98,7 +98,7 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 8
+      "value": 9
     },
     {
       "id": "weekend-warrior",
@@ -158,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 260
+      "value": 261
     },
     {
       "id": "daily-grinder",
@@ -173,12 +173,12 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 82
+      "value": 83
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 5
+      "value": 6
     },
     {
       "id": "escape-artist",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-12",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-11",
         "cleared": 3,
@@ -375,10 +380,11 @@
       }
     ],
     "perfectDays": 12,
-    "run": 1,
+    "run": 0,
     "bestRun": 3,
-    "questsDone": 82,
+    "questsDone": 83,
     "bosses": [
+      "2026-11-09",
       "2026-11-02",
       "2026-10-26",
       "2026-10-19",
@@ -398,5 +404,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-11T23:26:18.418Z"
+  "syncedAt": "2026-11-12T22:41:32.851Z"
 }
