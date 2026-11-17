@@ -1,8 +1,8 @@
 {
   "login": "phamthang44",
-  "level": 15,
+  "level": 14,
   "overall": "S",
-  "overallPercentile": 0.9459097850442041,
+  "overallPercentile": 0.9442062751540764,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1369,
+      "value": 1370,
       "rank": "SS",
-      "percentile": 0.9842562217405978
+      "percentile": 0.9842750109620982
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 20,
+      "value": 17,
       "rank": "SS",
-      "percentile": 0.9936494649840901
+      "percentile": 0.9880247354279832
     },
     {
       "code": "LUK",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1369
+      "value": 1370
     },
     {
       "id": "unbroken",
@@ -101,7 +101,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 18
+      "value": 16
     },
     {
       "id": "raider",
@@ -151,12 +151,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 257
+      "value": 258
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 12
+      "value": 13
     },
     {
       "id": "perfect-week",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 88
+      "value": 91
     },
     {
       "id": "boss-slayer",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-16",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-15",
         "cleared": 2,
@@ -387,10 +392,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 12,
-    "run": 0,
+    "perfectDays": 13,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 88,
+    "questsDone": 91,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -412,5 +417,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-15T21:42:53.550Z"
+  "syncedAt": "2026-11-17T00:45:59.736Z"
 }
