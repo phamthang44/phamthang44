@@ -1,27 +1,27 @@
 {
   "login": "phamthang44",
-  "level": 14,
+  "level": 15,
   "overall": "S",
-  "overallPercentile": 0.9442062751540764,
+  "overallPercentile": 0.9453021784951134,
   "layout": "default",
   "class": {
     "name": "Blade Master",
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "Polyglot",
+  "title": "Berserker",
   "stats": [
     {
       "code": "STR",
-      "value": 1370,
+      "value": 1404,
       "rank": "SS",
-      "percentile": 0.9842750109620982
+      "percentile": 0.9848947724583879
     },
     {
       "code": "AGI",
-      "value": 112,
+      "value": 124,
       "rank": "SS",
-      "percentile": 0.988144648039863
+      "percentile": 0.9900485310882534
     },
     {
       "code": "INT",
@@ -50,18 +50,25 @@
   ],
   "events": [
     {
+      "kind": "level",
+      "subject": "Level",
+      "from": "14",
+      "to": "15",
+      "at": "2026-11-17T23:49:37.138Z"
+    },
+    {
       "kind": "achievement",
-      "subject": "flawless",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-10T22:20:08.307Z"
+      "subject": "berserker",
+      "from": "2",
+      "to": "3",
+      "at": "2026-11-17T23:49:37.138Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 101
+      "value": 113
     },
     {
       "id": "quickdraw",
@@ -71,12 +78,12 @@
     {
       "id": "yolo",
       "tier": 3,
-      "value": 97
+      "value": 99
     },
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1370
+      "value": 1404
     },
     {
       "id": "unbroken",
@@ -86,17 +93,17 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 5
+      "value": 3
     },
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 9
+      "value": 8
     },
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 22
+      "value": 21
     },
     {
       "id": "gate-opener",
@@ -111,7 +118,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 90
+      "value": 91
     },
     {
       "id": "healer",
@@ -145,13 +152,13 @@
     },
     {
       "id": "berserker",
-      "tier": 2,
-      "value": 44
+      "tier": 3,
+      "value": 71
     },
     {
       "id": "diligent",
       "tier": 2,
-      "value": 258
+      "value": 259
     },
     {
       "id": "daily-grinder",
@@ -166,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 91
+      "value": 93
     },
     {
       "id": "boss-slayer",
@@ -186,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-17",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-16",
         "cleared": 3,
@@ -393,9 +405,9 @@
       }
     ],
     "perfectDays": 13,
-    "run": 1,
+    "run": 0,
     "bestRun": 3,
-    "questsDone": 91,
+    "questsDone": 93,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -417,5 +429,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-17T00:45:59.736Z"
+  "syncedAt": "2026-11-17T23:49:37.138Z"
 }
