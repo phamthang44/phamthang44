@@ -2,7 +2,7 @@
   "login": "phamthang44",
   "level": 15,
   "overall": "S",
-  "overallPercentile": 0.9453604485902978,
+  "overallPercentile": 0.9458678880891382,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1406,
+      "value": 1409,
       "rank": "SS",
-      "percentile": 0.9849301076942161
+      "percentile": 0.984982883893741
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 17,
+      "value": 18,
       "rank": "SS",
-      "percentile": 0.9880247354279832
+      "percentile": 0.9903581751585077
     },
     {
       "code": "LUK",
@@ -83,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1406
+      "value": 1409
     },
     {
       "id": "unbroken",
@@ -108,7 +108,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 16
+      "value": 17
     },
     {
       "id": "raider",
@@ -158,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 260
+      "value": 261
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 13
+      "value": 14
     },
     {
       "id": "perfect-week",
@@ -173,12 +173,12 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 94
+      "value": 97
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 6
+      "value": 7
     },
     {
       "id": "escape-artist",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-19",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-18",
         "cleared": 1,
@@ -409,11 +414,12 @@
         "total": 3
       }
     ],
-    "perfectDays": 13,
-    "run": 0,
+    "perfectDays": 14,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 94,
+    "questsDone": 97,
     "bosses": [
+      "2026-11-16",
       "2026-11-09",
       "2026-11-02",
       "2026-10-26",
@@ -434,5 +440,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-18T23:21:30.480Z"
+  "syncedAt": "2026-11-19T23:31:49.133Z"
 }
