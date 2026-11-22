@@ -28,12 +28,7 @@
 
 <p align="center">
 <a href="https://github.com/phamthang44/internal-room-booking-system"><img src="awaken/spotlight-1-dark.svg" width="49%" alt="phamthang44/internal-room-booking-system"></a>
-<a href="https://github.com/phamthang44/chargeops-backend"><img src="awaken/spotlight-2-dark.svg" width="49%" alt="phamthang44/chargeops-backend"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/phamthang44/chargeops-frontend"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="phamthang44/chargeops-frontend"></a>
-<a href="https://github.com/phamthang44/internal-room-booking-system-frontend"><img src="awaken/spotlight-4-dark.svg" width="49%" alt="phamthang44/internal-room-booking-system-frontend"></a>
+<a href="https://github.com/phamthang44/internal-room-booking-system-frontend"><img src="awaken/spotlight-2-dark.svg" width="49%" alt="phamthang44/internal-room-booking-system-frontend"></a>
 </p>
 
 <p align="center">
@@ -42,8 +37,8 @@
 </p>
 
 <p align="center">
-<img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank SS">
-<img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank SS">
+<img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank S">
+<img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank S">
 <img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank E">
 <img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank SS">
 </p>
