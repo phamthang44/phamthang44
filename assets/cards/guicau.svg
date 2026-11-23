@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-label="Gửi Cậu — Night-garden 3D scene · story builder · share links">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5b971"/><stop offset="1" stop-color="#f08a5d"/></linearGradient></defs>
+  <style>.f{font-family:'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',Consolas,monospace}</style>
+  <rect x=".5" y=".5" width="559" height="199" rx="16" fill="#0f141d" stroke="#ffffff" stroke-opacity=".09"/>
+  <rect x="0" y="0" width="6" height="200" rx="3" fill="url(#g)"/>
+  <circle cx="500" cy="52" r="26" fill="url(#g)" opacity=".18"/><circle cx="500" cy="52" r="10" fill="url(#g)"/>
+  <text class="m" x="32" y="44" font-size="13" fill="#f5b971" letter-spacing="1.5">WEB APP · 3D</text>
+  <text class="f" x="32" y="86" font-size="28" font-weight="700" fill="#f8fafc">Gửi Cậu</text>
+  <text class="f" x="32" y="118" font-size="16" fill="#cbd5e1">Turn photos and words into a gift link</text>
+  <text class="f" x="32" y="142" font-size="14" fill="#8b98ab">Night-garden 3D scene · story builder · share links</text>
+  <text class="m" x="32" y="176" font-size="13" fill="#64748b">↗ guicau.bythang.com</text>
+</svg>
