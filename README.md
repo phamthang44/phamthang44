@@ -15,15 +15,16 @@ I'm an **Agentic AI Engineer**. I design workflows where AI agents plan, build, 
 
 - **Agentic workflows** — multi-agent teams in Claude Code and Codex with separate roles (BA, architect, frontend, backend, QA, independent reviewer), custom skills, subagents and MCP servers
 - **Agent tooling** — a Tauri/Rust desktop studio that runs and watches Claude Code and Codex sessions, and an eval harness for an AI-guided film builder
-- **Engineering base** — Java, Spring Boot, PostgreSQL, Kafka, RabbitMQ, Redis on the backend; React, Next.js, TypeScript and Three.js on the frontend
+- **Engineering base** — Java, Spring Boot, PostgreSQL/PostGIS, Elasticsearch, Kafka, RabbitMQ, Redis on the backend; React, Next.js, TypeScript and Three.js on the frontend
 
 ### Engineering projects
 
 <p align="center">
-  <a href="https://chargeops.online"><img src="assets/cards/chargeops.svg" width="49%" alt="ChargeOps — final year project"></a>
+  <a href="https://chargeops.online"><img src="assets/cards/chargeops.svg" width="99%" alt="ChargeOps — final year project"></a>
+</p>
+<p align="center">
   <a href="https://github.com/phamthang44/internal-room-booking-system"><img src="assets/cards/roomhub.svg" width="49%" alt="RoomHub"></a>
-  <a href="https://github.com/phamthang44/commerce-platform"><img src="assets/cards/commerce.svg" width="49%" alt="Commerce Platform"></a>
-  <a href="https://pickverge.com"><img src="assets/cards/pickverge.svg" width="49%" alt="Pickverge"></a>
+  <a href="https://github.com/phamthang44/Ecommerce-Coursework"><img src="assets/cards/ecommerce.svg" width="49%" alt="Ecommerce"></a>
 </p>
 
 ### Products I've shipped
@@ -31,8 +32,10 @@ I'm an **Agentic AI Engineer**. I design workflows where AI agents plan, build, 
 <p align="center">
   <a href="https://guicau.bythang.com"><img src="assets/cards/guicau.svg" width="49%" alt="Gửi Cậu"></a>
   <a href="https://onemoretime.bythang.com"><img src="assets/cards/onemoretime.svg" width="49%" alt="One More Time"></a>
+  <a href="https://pickverge.com"><img src="assets/cards/pickverge.svg" width="49%" alt="Pickverge"></a>
   <a href="https://www.thedelayedsignal.fun"><img src="assets/cards/delayedsignal.svg" width="49%" alt="The Delayed Signal"></a>
   <a href="https://tamsilk.bythang.com"><img src="assets/cards/tamsilk.svg" width="49%" alt="TẰM"></a>
+  <a href="https://hienspa.bythang.com"><img src="assets/cards/hienspa.svg" width="49%" alt="Hiên"></a>
 </p>
 
 ### Stack
