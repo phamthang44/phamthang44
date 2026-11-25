@@ -69,20 +69,6 @@
       "from": "SS",
       "to": "S",
       "at": "2026-11-22T22:25:39.656Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "14",
-      "to": "15",
-      "at": "2026-11-17T23:49:37.138Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "berserker",
-      "from": "2",
-      "to": "3",
-      "at": "2026-11-17T23:49:37.138Z"
     }
   ],
   "achievements": [
@@ -179,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 259
+      "value": 260
     },
     {
       "id": "daily-grinder",
@@ -194,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 106
+      "value": 108
     },
     {
       "id": "boss-slayer",
@@ -214,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-24",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-23",
         "cleared": 2,
@@ -458,7 +449,7 @@
     "perfectDays": 15,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 106,
+    "questsDone": 108,
     "bosses": [
       "2026-11-16",
       "2026-11-09",
@@ -481,5 +472,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-24T03:17:54.545Z"
+  "syncedAt": "2026-11-25T01:23:20.365Z"
 }
